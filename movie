@@ -1,0 +1,315 @@
+
+ 
+	        	      body{
+  font-family: verdana;
+  font-weight: bold;
+  width: 700px;
+  height: 600px;
+   background-image: url("image/z.jpg");
+   background-size: cover;
+   font-size: 50px;
+}
+
+body a {
+  padding: 20px;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 25px;
+  color: whitesmoke;
+  
+  
+  
+}
+
+
+body nav ul {
+   text-align: center;
+  margin-top: 40px;
+  margin-right: 2
+  
+ 
+}
+
+a:hover{
+  color: whitesmoke;
+  background-color: gray;
+  padding: 3px;
+}
+     
+
+ div {
+  font-size: 23px;
+  
+}
+
+legend {
+  background-color: burlywood;
+  border-radius: 20px
+}
+
+fieldset {
+  margin: 10px;
+  border-radius: 30px;
+  background-color: gainsboro;
+}
+
+
+
+nav h1 {
+  font-size: 60px;
+  background-color: gainsboro;
+  border-radius: 40px;
+  color: seashell;
+}
+
+      .wrapper {
+  max-width: 450px;
+  margin: 120px auto;
+  margin-top: 1px;
+}
+
+.wrapper .search-input {
+  
+  border-radius: 20px;
+  width: 100%;
+  box-shadow: 0px 1px 5px 3px;
+  
+}
+
+
+.search-input input {
+  height: 55px;
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+   padding: 0 60px 0 20px;
+  font-size: 23px;
+}
+
+
+
+
+  .search-input .icon img{
+  position: absolute;
+  margin: 13px;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  margin-left: -30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+	
+.autocomplete-box li {
+  list-style: none;
+  padding: 0px 12px;
+  width: 100%;
+  cursor: default;
+  border-radius: 5px;
+  display: none;
+}
+
+.autocomplete-box li:hover {
+  background-color: white;
+  
+}
+
+.search-input .autocomplete-box li {
+  padding: 10px 8px;
+  max-height: 280px;
+  overflow-y: auto;
+  opacity: 0;
+  pointer-events: none;
+  
+}	
+
+.Movie-A-C .A-C {
+  color: black;
+  text-decoration: underline;
+  
+}
+
+.Movie-D-F .D-F {
+  color:black;
+  text-decoration: underline;
+}
+
+.movie-alpbet a  {
+  color: black;
+  text-decoration: underline
+}
+
+.movie-alpbet {
+  background-color: gray;
+  width: 1500px;
+  border-radius: 15px;
+   border-radius: 15px;
+  padding: 10px;
+  box-shadow: 1px 0px 1600px 0px  hotpink;
+}
+
+
+
+.movie-alpbet .Movie-A-C:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.movie-alpbet .Movie-D-E-F:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.movie-alpbet .Movie-G-H-I:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+.movie-alpbet .Movie-J-K-L:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+ .Movie-M-N-O:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+  
+  
+}
+
+.Movie-P-Q-R:hover{
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+
+.Movie-S-T-U:hover {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+.Movie-V-W-X:hover {
+   background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.Movie-Y-Z:hover {
+   background-color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+
+span {
+  font-size: 25px;
+  padding-left: 1300px;
+  background-color: gainsboro;
+  border-radius: 10px;
+  box-shadow: 1px 0px 1900px 0px brown;
+  
+}
+
+
+nav a {
+  background-color: black;
+}
+
+nav img {
+  width: 800px;
+  height: 250px;
+  border-radius: 50px;
+  margin-left: 350px;
+  box-shadow: 1px 0px 1600px 0px  blue;
+  
+}
+
+
+#list-style {
+  list-style: none;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+#list-style li {
+  width: 200px;
+  height: 150px;
+  background-color: #344556;
+  float: left;
+  margin: 10px;
+  box-shadow: 0 2px 3px rgba(0,0,0,0,5);
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+#list-style a {
+  font-size: 23px;
+  color: cyan;
+  line-height: 20px;
+  font-family: monospace;
+}
+
+
+
+.recent {
+  background-color: gray;
+  border-radius: 10px;
+  height: 100px;
+  width: 900px;
+  margin-left: 350px;
+  
+}
+
+.recent p {
+  text-align: center;
+  margin: 0px;
+  color: aqua;
+  font-size: 30px;
+}
+
+.social-network a {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  
+}
+
+.social-network a img {
+ background-color: #e84393;
+  border-radius: 10px;
+  margin: 20px;
+  margin-top: -300px;
+  margin-bottom:
+ 
+}
+
+.social-network  {
+  background-color: gray;
+  border-radius: 100px;
+  width: 400px;
+  height: 90px;
+  
+}
+
+.social-network p {
+  text-align:center;
+  margin-top: -30px;
+  
+}
+
+	        
